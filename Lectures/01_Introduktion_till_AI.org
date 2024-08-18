@@ -1,0 +1,102 @@
+* Vad är AI?
+** Artificiell Intelligens (AI)
+*** English Oxford Languages
+the theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
+
+*** På svenska
+en gren inom datavetenskap som syftar till att skapa system och maskiner som kan utföra uppgifter som vanligtvis kräver mänsklig intelligens, såsom inlärning, problemlösning, och beslutsfattande.
+
+* Centrala begrepp
+** Maskininlärning (ML)
+Ett områden inom AI som handlar om att ge system möjlighet att lära sig och förbättra sig över tid utan att behöva programmeras för varje uppgift. Systemet tränas på data och lär sig genom att hitta mönster.
+
+Exempel: e-postfilter, rekommendationer på Netflix.
+
+** Dataklassificering
+Ett datorssystem studerar mönster i data för att grupperingar att klassificeras. Ny data kan sedan jämföras med de inlärda klassernas och i sin tur klassificeras.
+
+** Evolutionära algoritmer
+Evolutionära algoritmer är metoder för att programmera datorsystem att hitta nya lösningar på problem genom naturliga urvalsprocesser som efterliknar biologisk evolution.
+
+https://www.youtube.com/watch?v=uwz8JzrEwWY
+https://ntrs.nasa.gov/citations/20060024675
+
+** Neurala nätverk
+En särskild typ av maskininlärning som försöker efterlikna den mänskliga hjärnan. Ett neuralt nätverk består av "neuroner" i olika lager som bearbetar data och kan lära sig mönster.
+
+** Djupinlärning
+Ett samlingsbegrepp för metoder som använder stora neurala nätverk i många lager för att bearbeta stora mängder data.
+
+Exempel: AlphaGO, sälvkörande bilar.
+
+https://deepmind.google/technologies/alphago/
+
+** Naturlig språkbearbetning (NLP)
+Naturlig språkbearbetning handlar om att hitta algoritmer som hanterar mänskligt språk och kommunikation.
+
+Exempel: stavnings- och grammatikkontroll, översättning, taligenkänning.
+
+** Stora språkmodeller (LLM)
+En stor språkmodell försöker lösa problemen kring att hantera mänsklig kommunikation på ett mer generellt sätt. Använder djupinlärning tillsammans med andra metoder för att skapa ett mer anpassningsbart system.
+
+Exempel: ChatGPT, Claude, LLaMA ...
+
+https://ollama.com/
+* Historia
+** Alan Turing och Turingtestet (1950-talet)
+*Kan maskiner tänka?*
+
+En av datavetenskapens grundare som utvecklade konceptet av en Turingmaskin – en hypotetisk maskin som kan programmeras att genomföra vilken algoritm som helst. Turing argumenterade i sin artikel "Computing Machinery and Intelligence" (1950) för att maskiner kunde efterlikna mänskligt tänkande, och han introducerade också det berömda "Turing-testet" för att avgöra om en maskin kunde visa intelligent beteende.
+
+https://www.imdb.com/title/tt2084970/
+
+*** Turing-testet
+Ett sätt att bedöma om en maskin kan uppvisa intelligent beteende som är oskiljbart från en människas.
+
+*Roller:* Det involverar tre deltagare: en människa som agerar domare, en annan människa, och en maskin (dator).
+
+*Kommunikation:* Domaren kommunicerar med både människan och maskinen genom en dator eller skriftlig kommunikation, så att ingen av dem kan identifiera varandra genom röst eller utseende.
+
+*Syfte:* Domarens uppgift är att ställa frågor och försöka avgöra vilken av de två deltagarna som är maskinen och vilken som är människan.
+
+*Resultat:* Om domaren efter en viss tidsperiod inte kan avgöra vilken av deltagarna som är maskinen, eller om hen identifierar maskinen som människa lika ofta som eller oftare än den verkliga människan, anses maskinen ha klarat testet och därmed uppvisa intelligent beteende.
+
+https://sv.wikipedia.org/wiki/Det_kinesiska_rummet
+
+** Dartmouth-konferensen 1956
+Ägde rum vid Dartmouth College i New Hampshire, USA och anses vara där artificiell intelligens grundades som forskningsområde. Ledande forskare samlades för att diskutera hur maskiner i framtiden skulle kunna efterlikna mänsklig intelligens. 
+
+** Tidiga program som ELIZA och SHRDLU
+*** ELIZA (1966)
+Ett tidigt naturligt språkbehandlingsprogram utvecklat av Joseph Weizenbaum som kunde simulera en psykoterapeut.
+
+*** SHRDLU (1968)
+Ett tidigt AI-system utvecklat av Terry Winograd, som kunde förstå och agera på kommandon i en enkel simulerad värld.
+
+https://en.wikipedia.org/wiki/SHRDLU
+
+** AI-vintern (1970-talet)
+Under 1970-talet visade det sig att framstegen inom AI inte nådde de höga förväntningarna på området. Begränsningar i datorprestanda, brist på tillräckliga data och oförmågan att lösa komplexa problem ledde till minskad finansiering och intresse för AI-forskning.
+
+** Maskininlärning (1990-talet)
+Maskininlärning vissade sig vara ett lovande områden under 1990-talet. Dessa tekniker gjorde det möjligt för AI-system att lära sig från stora datamängder och förbättra sig över tid utan explicit programmering för varje uppgift.
+
+** Deep learning (2010-talet)
+Genombrottet för deep learning kom under 2010-talet, där artificiella neurala nätverk med många lager (deep networks) visade sig vara mycket effektiva för att lösa komplexa problem, som bild- och taligenkänning. Denna teknologi ligger bakom många av dagens mest avancerade AI-tillämpningar. 
+
+** Moderna framsteg inom AI
+*** Självkörande bilar:
+AI har spelat en nyckelroll i utvecklingen av självkörande fordon, där avancerade algoritmer kombineras med sensordata för att navigera och fatta beslut i realtid.
+
+*** AI inom medicinsk diagnostik:
+AI används allt mer inom sjukvården för att analysera medicinska bilder, förutsäga patientutfall och föreslå behandlingar, ofta med högre noggrannhet än mänskliga experter.
+
+*** Digitala assistenter:
+ Assisterande teknologier som Siri, Alexa och Google Assistant använder AI för att förstå och svara på mänskligt tal.
+
+*** Stora språkmodeller
+På senare år har vi sett system som ChatGPT bli tillgängliga för allmänheten. 
+
+* AI i Framtiden
+** Artificiell allmän intelligens (AGI)
+Hur nära är vi en dator som är smartare än en människa?
